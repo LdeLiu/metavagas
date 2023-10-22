@@ -34,6 +34,17 @@ git clone https://github.com/LdeLiu/reservaDeHoteis.git
 ```
 Pressione ENTER para criar seu clone local.
 
+### 🔧 Entidades
+- User:
+    Cadastro, login e auteração de dados de usuario. Tambem permite salvar dados como favorito.
+- Job:
+    Cria, busca e filtra vagas.
+- Technology:
+    Cria, verifica e busca tecnologias.
+- SearchCounter:
+    Cria, busca, e incrementa contadores de busca. Tambem retorna as 5 tecnologias mais perquisadas.
+-  City:
+    Cria e busca cidades.
 
 ## ⚙️ Executando os testes
 
