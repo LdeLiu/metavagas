@@ -12,4 +12,4 @@ app.use(express.json())
 app.use(Routers)
 
 
-app.listen(process.env.PORT || 3333, () => console.log(`Server runing at ${process.env.PORT}`))
+app.listen(3333, () => console.log(`Server runing at ${process.env.PORT}`))
