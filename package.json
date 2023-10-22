@@ -7,7 +7,7 @@
   "scripts": {
     "test": "vitest",
     "coverage": "vitest run --coverage",
-    "start": "tsx src/index.ts",
+    "start": "node ./dist/index.js",
     "build": "tsup src",
     "dev": "tsx watch src/index.ts"
   },
